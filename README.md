@@ -1,4 +1,4 @@
 # books
 책정리하기
 
-[Effective Typescript](/effective-typescript)
+[Effective Typescript](./effective-typescript)
